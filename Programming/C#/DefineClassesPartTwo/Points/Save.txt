@@ -1,0 +1,6 @@
+Point X: 12 Point Y: 15 Point Z: 16 
+
+Point X: 10 Point Y: 2 Point Z: 13 
+
+Point X: 2 Point Y: 2 Point Z: 2 
+
